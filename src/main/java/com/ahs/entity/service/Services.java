@@ -28,4 +28,6 @@ public class Services {
     @Column(name="duration")
     private String duration;
 
+
+
 }

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arka-home-service-test",
+  "private_key_id": "44bd4d3a0d6b637e786a8b8a985a185e892871b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLXYir9KAAnkbz\nApwPfrp6Bo/lQqxb8B2Vm08KtIt6HYkppfLkyy6XHSJha/x3uLJqJQioDjQsFU94\nPuY7TYdTnPZ96XVEZg8J0Ht4Hj2KBOOOaYszDnhWr2UEPTu1o7jclskwDtDFmPkR\n5fkRzV6brek9KPh29W+QCf96ZVT9f/6pRBYSn8dgSSX8XxVrrBbIpbVKIqxFI0wo\nel8W9qEVGx2wLOYqXICqFv57vPnU2GFG4Mh2TpX7HmRR2AvaY98GjvDHiEvztDB4\nEBu+mX/rIt/Uri9KU8g26DVY8YskS+bL15KFARykDelTQOYl1MBLCZVUq3ya3Z64\nCY9aen4jAgMBAAECggEAPf9kWKPpmXanQ5Nyl0i3udbBTI/QcvDXXBIufSGAefiC\nJdfJHlYQ/JGttwyQOcFtZu2mX3GBF0Vh5lMqpj6i+GscPFONZA5HHGNaGMsDUM3f\nv71OagDJ0AeFoM64Is5oX5t6dzO1EuBpYjr9fR9ibcyNlA8m/EEjw0JBCAPXbrZo\nsvvHCdUDYLt8Gh9LEEGS6g5R91NL6cx3ZwQzAoNuSkF1evtdV1LoKI+c+A/el24L\nP+nDPAP5Zlbga46f5AnJ+JhzMLgcXhwSUKAAi0qnvMWIPGYlOgjNi4xS4nTvrsd1\nl5trThyx+GQDjr90/P9BJQUb6ec46V1jmovNzm2joQKBgQDz5JHB7/N2KPG85+eY\nPh+0C+h146q4lFvNcVWUbgKpSFVlmJU2Q1pPSmZXYr5rFTMbsT3v6KSjwXAKW7ys\nSyAsl9lG7XDG2lBRLml+8UK4eM2jB7qCfvJfGeOOQcLAXLpu4gy9GT5U/mOta9+S\nBsem2huaI39SxoXUIytcpBp9YQKBgQDVde8/mDa3MvybHSYkdYsqkBUdCjx7rNP1\np04tf20oN+Syv/WGwCZJphANclrwNtt0zSyrIjd2QRVg5ORUJ2LVMisoAF+oIKFd\nCISCGIR6DMDeI1bq4NEGWGBvHN/Fj9Xv4buTCSNe4SMompjosK6gVzeA+vISLoSW\nIbyanHLGAwKBgGrB32eD8A8FxyMIY+DJOLloCP4phN482p5oAKzzJqkQ54iMLKxO\n+SYCDCAuMenPosp5YAI21HJ1xuRR2ZmVXOUIJuycHKR+hW+zoCwX0TvMbT7ysBpV\nFSS5wVjQwj3PmS/WNPtFJHqxy9HqiTdzTktj53cmGKKUEZqVNnLbxlihAoGAc4uy\nJPds7r+/susVYXjrCvARLbYDxWJpHbkhfUlTugh/WC7GZdmPICCu4ch75zmak2AY\nhM4xvWY/f0KHQfJL8mGEsNN69BQtpKFesNk6pKJQqC3y95MYMloWYS79BgD06jOD\niHTS26H8mRcOHC6/Z/WuCrhL3oGlrWq3n+19xycCgYEAnRTMKnlApywOdUA5ihGK\n88Lg6Img5YGVQOSB4c+y2UHUGiYd/zx1UrUA6ZT3vMaLdJKig2I7U39IbowSDgCl\nhfYuZ2vkNSRbXSzogQwC63lXnneAFYqUooiK50/92AEqXH/VKMgUB6SnB2u+mn1/\nDRwUM15sW8jN4fmwMZf+dcw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zp0gt@arka-home-service-test.iam.gserviceaccount.com",
+  "client_id": "109059061412088797226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zp0gt%40arka-home-service-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

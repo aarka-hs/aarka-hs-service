@@ -1,6 +1,6 @@
-package com.ahs.entity;
-
-public class TimeSlot {
-
-
-}
+//package com.ahs.entity;
+//
+//public class TimeSlot {
+//
+//
+//}
